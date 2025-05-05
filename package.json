@@ -1,0 +1,19 @@
+{
+  "name": "pigon-ollama-connector",
+  "version": "1.0.0",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "start": "node ."
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "axios": "^1.7.7",
+    "dotenv": "^16.4.7",
+    "ollama": "^0.5.11",
+    "socket.io-client": "^4.8.1"
+  }
+}
